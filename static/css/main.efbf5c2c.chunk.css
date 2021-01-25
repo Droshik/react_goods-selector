@@ -1,0 +1,2 @@
+.App{margin:0 auto;max-width:500px}.App .list{padding:0}.App .list__item{position:relative;width:100%;display:flex;justify-content:space-between;padding:10px}.App .list__item_selected:after{content:"";position:absolute;left:-30px;display:block;width:15px;height:15px;border-radius:50%;background-color:green}.App .list__item:nth-child(2n){background-color:silver}
+/*# sourceMappingURL=main.efbf5c2c.chunk.css.map */
